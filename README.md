@@ -7,7 +7,7 @@ Este projeto é a simulação de problema de concorrência
 
 ## Técnologias usadas
 
-Java 8
+Java 8, JavaFX
 
 ## Instalando Dependências
 
