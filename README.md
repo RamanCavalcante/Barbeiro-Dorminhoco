@@ -25,21 +25,10 @@ https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.htm
   
   ```
 ## Executando aplicação
-* Para rodar o back-end:
+
+*Digite no terminal
+```
+  Javac Principal.java
+  java Principal
   
-  ```
-  cd api/ && npm start
-  ```
-* Para rodar o front-end:
-
-  ```
-    cd src/ && npm start
-  ```
-
-## Executando Testes
-
-* Para rodar todos os testes:
-
-  ```
-    npm test
   ```
