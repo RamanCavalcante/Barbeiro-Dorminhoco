@@ -1,9 +1,13 @@
-# pc_trabalho06_201820754
+# Barbeiro dorminhoco
  Problema do Barbeiro dorminhoco - Trabalho de concorrente 
 
 
 # Contexto
-Este projeto é a simulação de problema de concorrência 
+o problema do barbeiro dorminhoco é um problema clássico de comunicação inter-threads e sincronização entre múltiplas threads. O problema é análogo a manter o barbeiro ocupado enquanto há clientes, e descansando quando não há nenhum (fazendo isso de uma maneira ordenada).
+
+
+
+### Status do projeto: FINALIZADO
 
 ## Técnologias usadas
 
@@ -13,11 +17,11 @@ Java 8, JavaFX
 
 necessita a instalação do java 8
 
-*Para instalar no Windows
+* Para instalar no Windows
 ```
 https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html
   ```
-*Para instalar no linux
+* Para instalar no linux
 ```
   sudo add-apt-repository ppa:webupd8team/java
   sudo apt-get update
@@ -26,7 +30,7 @@ https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.htm
   ```
 ## Executando aplicação
 
-*Digite no terminal
+* Digite no terminal
 ```
   Javac Principal.java
   java Principal
