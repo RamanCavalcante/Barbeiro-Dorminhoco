@@ -32,3 +32,7 @@ https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.htm
   java Principal
   
   ```
+  ![gifBarbeiro](https://user-images.githubusercontent.com/31856676/142026366-582d542e-dec2-4f6e-8775-6f99471b098a.gif)
+
+  
+  
