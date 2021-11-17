@@ -1,9 +1,9 @@
-# Barbeiro dorminhoco
- Problema do Barbeiro dorminhoco - Trabalho de concorrente 
+# Barbeiro e dorminhoco
+ Problema do Barbeiro e dorminhoco - Trabalho de concorrente 
 
 
 # Contexto
-o problema do barbeiro dorminhoco é um problema clássico de comunicação inter-threads e sincronização entre múltiplas threads. O problema é análogo a manter o barbeiro ocupado enquanto há clientes, e descansando quando não há nenhum (fazendo isso de uma maneira ordenada).
+consiste em um desafio de sincronização de duas ou mais threads (tarefas) concorrentes que têm acesso a um mesmo recurso do programa que está sendo executado. O fato de o recurso estar sendo compartilhado, implica na possibilidade de conflitos entre as threads que disputam pelo controle da CPU para acessar esse mesmo recurso
 
 
 
@@ -36,7 +36,8 @@ https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.htm
   java Principal
   
   ```
-  ![gifBarbeiro](https://user-images.githubusercontent.com/31856676/142026366-582d542e-dec2-4f6e-8775-6f99471b098a.gif)
 
-  
+
+  ![gifbob](https://user-images.githubusercontent.com/31856676/142261624-8a9126bf-21f1-476d-acc5-6f3f39535637.gif)
+
   
