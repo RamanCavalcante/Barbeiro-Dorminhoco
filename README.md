@@ -38,6 +38,5 @@ https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.htm
   ```
 
 
-  ![gifbob](https://user-images.githubusercontent.com/31856676/142261624-8a9126bf-21f1-476d-acc5-6f3f39535637.gif)
 
   
